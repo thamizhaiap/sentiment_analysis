@@ -1,1 +1,2 @@
-# sentiment analysis from the data collected from Twitter API
+# sentiment analysis 
+# Data Streaming From Twitter
